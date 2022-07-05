@@ -75,10 +75,33 @@ p {
 
 .recipie-title img {
     width: 80%;
+
+}
+
+.box-shadow-1 {
+    box-shadow: 10px 10px 10px rgb(183, 179, 179);
+    margin: 40px;
+    text-align: center;
+}
+
+.reti-1 {
+    text-align: left;
+    text-align: justify;
+    padding: 10px 20px 10px 60px;
+}
+
+.width-hafe p {
+    font-size: 15px;
 }
 
 .social {
     text-align: center;
+
+}
+
+.box-shadow {
+    box-shadow: 10px 10px 30px grey;
+    margin: 50px;
 }
 
 .footer-pairt {

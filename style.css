@@ -76,3 +76,14 @@ p {
 .recipie-title img {
     width: 80%;
 }
+
+.social {
+    text-align: center;
+}
+
+.footer-pairt {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
